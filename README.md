@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌊, I'm albane</h1>
+<h1 align="center">Hello, I'm albane</h1>
 <h3 align="center">A Full stack web developer living in London</h3>
 
 - 📫 How to reach me **albanetonnellier@gmail.com**
